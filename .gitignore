@@ -1,0 +1,11 @@
+src/*_lexer.erl
+src/*_parser.erl
+.DS_Store
+.eunit/*
+deps/*
+ebin/*
+doc/*
+temp/*
+*.beam
+erl_crash.dump
+Mnesia*
